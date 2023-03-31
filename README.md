@@ -9,7 +9,7 @@
   <h2>Installation</h2>
   <ol>
     <li>Clone the repository: <code>git clone https://github.com/praveen3164/Whatsapp-Bulk-Message-Sender/</code></li>
-    <li>Install dependencies: <code>npm install</code></li>
+    <li>Install dependencies: <code>npm i</code></li>
   </ol>
   <h2>Usage</h2>
   <p>To start the application, run: <code>node app.js</code></p>
