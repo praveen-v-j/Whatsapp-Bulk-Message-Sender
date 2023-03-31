@@ -38,6 +38,33 @@
     <td>This command clears the console.</td>
   </tr>
 </table>
+<h2>To-do List</h2>
+<table>
+  <thead>
+    <tr>
+      <th>Task</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Media search and add various attachment</td>
+      <td>&#x274C;</td>
+    </tr>
+    <tr>
+      <td>Proper season management</td>
+      <td>&#x274C;</td>
+    </tr>
+    <tr>
+      <td>Auto-reply message</td>
+      <td>&#x274C;</td>
+    </tr>
+    <tr>
+      <td>Implementing .env file for easy configuration</td>
+      <td>&#x274C;</td>
+    </tr>
+  </tbody>
+</table>
 
   <h2>Disclaimer</h2>
     <p>
