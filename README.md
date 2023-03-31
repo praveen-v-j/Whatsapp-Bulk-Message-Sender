@@ -19,9 +19,10 @@
 
   <p>Once the file is created, the application will automatically read it and send the messages to the corresponding phone numbers.</p>
   
+  <h2>Available Commands</h2>
   <table>
   <tr>
-    <th>Available Commands</th>
+    <th>Commands</th>
     <th>Usage</th>
   </tr>
   <tr>
@@ -44,5 +45,10 @@
       or any other malicious activity is strictly prohibited. The author of this application is not
       responsible for any consequences resulting from the use of this application.
     </p>
+    <h2>License</h2>
+  <p>This project is licensed under the <a href="https://opensource.org/licenses/MIT">MIT License</a>.</p>
+  <p>You are free to use, modify, and distribute this project for any purpose, as long as you include the original license and attribution to the original authors.</p>
+  <p>The software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.</p>
+</section>
 </body>
 </html>
