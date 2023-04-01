@@ -26,16 +26,20 @@
     <th>Usage</th>
   </tr>
   <tr>
-    <td>Logout</td>
+    <td>Logout - logout</td>
     <td>This command logs out the session.</td>
   </tr>
   <tr>
-    <td>Exit</td>
+    <td>Exit - clear</td>
     <td>This command closes the application.</td>
   </tr>
   <tr>
-    <td>Clear</td>
+    <td>Clear - clear</td>
     <td>This command clears the console.</td>
+  </tr>
+  <tr>
+    <td>Dub - dub</td>
+    <td>This command remove the duplicate contacts.</td>
   </tr>
 </table>
 <h2>To-do List</h2>
