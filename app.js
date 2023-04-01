@@ -69,7 +69,12 @@ const userInput = readline.createInterface({
     //   await deploy_all();
     //   // code to send messages here
     // } else 
-    if (input.toLowerCase() === 'clear') {
+    if (input === 'dub') {
+        const contacts = fs.readFileSync('contacts.csv', 'utf-8').split('\n').filter(Boolean);
+        const uniqueContacts = [...new Set(contacts)];
+        fs.writeFileSync('contacts.csv', uniqueContacts.join('\n'));
+        console.log('Duplicate contacts removed!');
+    } else if (input.toLowerCase() === 'clear') {
       console.clear();
     } else if (input === 'logout') {
       client.logout();
