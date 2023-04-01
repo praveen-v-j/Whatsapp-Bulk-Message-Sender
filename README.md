@@ -41,6 +41,10 @@
     <td>Dub - dub</td>
     <td>This command remove the duplicate contacts.</td>
   </tr>
+  <tr>
+    <td>Code - code</td>
+    <td>This command generate a QR.</td>
+  </tr>
 </table>
 <h2>To-do List</h2>
 <table>
